@@ -19,6 +19,10 @@ Creates a widget showing the most recent daily news headlines from Mission Netwo
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Visit Appearance -> Widgets in the admin and place the widget in a sidebar
 
+== Screenshots ==
+
+1. Headlines showing in a widget
+
 == Usage ==
 
 Use the normal widget admin UI to drag the widget into your sidebar.
